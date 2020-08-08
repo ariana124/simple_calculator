@@ -2,7 +2,7 @@
 
 A simple calculator web application that adds to numbers and  was built using node js.
 
-### Installation
+## Installation
 
 ```
 git clone https://github.com/ariana124/simple_calculator.git
@@ -24,7 +24,7 @@ npm install
 
 After running this command you should have a folder labeled `node_modules` in the repository.
 
-### Running the Application
+## Running the Application
 
 After installing the npm packages with the prior command, you can now use the command:
 
