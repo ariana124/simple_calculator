@@ -4,17 +4,23 @@ A simple calculator web application that adds to numbers and  was built using no
 
 ### Installation
 
-`git clone https://github.com/ariana124/simple_calculator.git`
+```
+git clone https://github.com/ariana124/simple_calculator.git
+```
 
 Check to make sure you have node installed using:
 
-`node -v`
+```
+node -v
+```
 
 If you don't have node installed, download it [here](https://nodejs.org/en/download/).
 
 Once you have this repository cloned and node installed run the command:
 
-`npm install`
+```
+npm install
+```
 
 After running this command you should have a folder labeled node_modules in the repository.
 
@@ -22,7 +28,9 @@ After running this command you should have a folder labeled node_modules in the 
 
 After installing the npm packages with the prior command, you can now use the command:
 
-`nodemon calculator.js`
+```
+nodemon calculator.js
+```
 
 Nodemon is a package that automatically restarts your server when you make and save any changes to the `calculator.js` file. It's a lot more convenient than saving the file, quitting the current session with `Ctrl + C`, and running `node calcultor.js` everytime you make a change and save the file.
 
