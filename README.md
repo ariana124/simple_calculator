@@ -1,3 +1,3 @@
 # simple calculator
 
-A simple calculator web application that is build using node js.
+A simple calculator web application that was built using node js.
