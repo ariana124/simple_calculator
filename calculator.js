@@ -13,7 +13,7 @@ app.get("/", function(req, res) {
 });
 
 app.post("/", function(req, res) {
-    // Need parseInt to convert the character into an integer.
+    // Need parseInt to convert the text into an integer.
     let num1 = parseInt(req.body.num1);
     let num2 = parseInt(req.body.num2);
 
