@@ -17,9 +17,10 @@ app.post("/", function(req, res) {
     let num1 = parseInt(req.body.num1);
     let num2 = parseInt(req.body.num2);
 
-    let result = num1 + num2;
+    let sum = num1 + num2;
 
-    res.send(`The result is ${result}`);
+    res.send(`<h1 style="font-family: Arial;">The sum is 
+                <span style="text-decoration: underline;">${sum}</span></h1>`);
 });
 
 app.listen(3000, function(){
