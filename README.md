@@ -1,6 +1,6 @@
 # Addition Calculator
 
-A simple calculator web application that adds to numbers and  was built using node js.
+A simple calculator web application that adds two numbers and  was built using node js.
 
 ## Installation
 
